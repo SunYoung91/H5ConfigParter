@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/02/20 19:55:44.383,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/20 19:56:16.074,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\H5ConfigParter.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/02/20 19:56:22.132,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/02/20 19:56:22.132,C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/02/20 19:56:39.392,L:\H5ConfigParter\Main.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>2020/02/20 19:56:39.392,L:\H5ConfigParter\Main.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>2020/02/20 19:59:50.270,L:\H5ConfigParter\H5ConfigParter.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\H5ConfigParter.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
